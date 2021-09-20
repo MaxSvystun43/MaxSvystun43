@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaxSvystun43
-- 👀 I’m interested in programming, computer games, computer vision and VR.
+- 👀 I’m interested in programming, computer games, computer vision, gamedev and AI for games.
 - 🌱 I’m currently learning mathine learning
 - 💞️ I’m looking to collaborate on some interesting projects.
 - 📫 How to reach me...
